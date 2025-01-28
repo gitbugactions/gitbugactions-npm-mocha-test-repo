@@ -1,6 +1,6 @@
 class AppMath {
     sum(a, b) {
-        return a - b;
+        return a + b;
     }
 
     subtract(a, b) {
